@@ -1,2 +1,2 @@
 # WebProgramming
-WebProgramming
+WebProgrammingの講義資料とデモを順次公開します。
